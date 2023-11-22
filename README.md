@@ -16,7 +16,8 @@ Create clickable regions in the image using ```<area``` tag.
 Write HTML programs for all the regions identified.
 ### Step 6:
 Execute the programs and publish them.
-## Code:```
+## Code:
+```
 map.html
  <!DOCTYPE html>
 <html>
