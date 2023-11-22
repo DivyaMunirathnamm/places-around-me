@@ -111,10 +111,8 @@ velumess.html
 
 
 ## Output:
-![Uploading govthostrt.png…]()
-![Uploading jjnagartrt.png…]()
-![Uploading velumesstrt.png…]()
-![Uploading velumesstrt.png…]()
+![Uploading Divya-hometown.jpg…]()
+![csischooltrt](https://github.com/DivyaMunirathnamm/places-around-me/assets/147474097/c809de72-1c2f-4c18-bdf1-266bbe025c94)
 
 
 ## Result:
