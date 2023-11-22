@@ -17,7 +17,8 @@ Write HTML programs for all the regions identified.
 ### Step 6:
 Execute the programs and publish them.
 ## Code:
-```map.html
+```
+map.html
  <!DOCTYPE html>
 <html>
     <head>
