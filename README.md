@@ -100,8 +100,11 @@ velumess.html
 
 ```
 
+
+
 ## Output:
 ![Divya-hometown](https://github.com/DivyaMunirathnamm/places-around-me/assets/147474097/7578af54-c8c0-4bdc-b4ca-7dfd24d4692e)
+
 ![jjnagartrt](https://github.com/DivyaMunirathnamm/places-around-me/assets/147474097/9443b55d-5914-4618-a106-b9955ffacd1e)
 
 ![govthostrt](https://github.com/DivyaMunirathnamm/places-around-me/assets/147474097/ac0c3530-4a83-4fe7-9a7e-bb936d77a46f)
