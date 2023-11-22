@@ -16,8 +16,7 @@ Create clickable regions in the image using ```<area``` tag.
 Write HTML programs for all the regions identified.
 ### Step 6:
 Execute the programs and publish them.
-## Code:
-```
+## Code:```
 map.html
  <!DOCTYPE html>
 <html>
@@ -34,10 +33,8 @@ map.html
   <area alt="jjnagar" title="jjnagar" href="jjnagar.html" coords="508,287,70" shape="circle">
   <area alt="mgrnagar" title="mgrnagar" href="mgrnagar.html" coords="589,418,687,474" shape="rect">
   <area alt="velumess" title="velumess" href="velumess.html" coords="384,346,107" shape="circle">
-  <area alt="govthospital" title="govthospital" href="govthospital.html" coords="603,6,97" shape="circle">
-  
+  <area alt="govthospital" title="govthospital" href="govthospital.html" coords="603,6,97" shape="circle"> 
 </map>
-
     </body>
 </html>
 
