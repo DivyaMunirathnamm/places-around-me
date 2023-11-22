@@ -1,9 +1,6 @@
-## Places Around Me
+## EX04: Places Around Me
 ## AIM:
  To develop a website to display details about the places around my house.
-
-### Design Steps:
-
 ### Step 1:
 Create a Django admin interface.
 ### Step 2:
@@ -99,10 +96,8 @@ velumess.html
 </html>
 
 ```
-
-
-
 ## Output:
+
 ![Divya-hometown](https://github.com/DivyaMunirathnamm/places-around-me/assets/147474097/7578af54-c8c0-4bdc-b4ca-7dfd24d4692e)
 
 ![jjnagartrt](https://github.com/DivyaMunirathnamm/places-around-me/assets/147474097/9443b55d-5914-4618-a106-b9955ffacd1e)
