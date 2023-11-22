@@ -6,26 +6,18 @@ To develop a website to display details about the places around my house.
 
 ### Step 1:
 Create a Django admin interface.
-
 ### Step 2:
 Download your city map from google.
-
 ### Step 3:
 Using ```<map>``` tag name the map.
-
 ### Step 4:
 Create clickable regions in the image using ```<area``` tag.
-
 ### Step 5:
 Write HTML programs for all the regions identified.
-
 ### Step 6:
 Execute the programs and publish them.
-
-
 ## Code:
-```
-map.html
+```map.html
  <!DOCTYPE html>
 <html>
     <head>
@@ -106,9 +98,7 @@ velumess.html
         <h1>velumess</h1>
     </body>
 </html>
-
 ```
-
 
 ## Output:
 ![Divya-hometown](https://github.com/DivyaMunirathnamm/places-around-me/assets/147474097/7578af54-c8c0-4bdc-b4ca-7dfd24d4692e)
